@@ -1,7 +1,8 @@
+package com.sofka.project;
+
 import java.util.Scanner;
 
-public class Example {
-
+public class Greating {
     /**
      * Metodo main permite iniciar la aplicacion
      * @param args
@@ -57,8 +58,6 @@ public class Example {
         else{
             System.out.println("Datos Incorrectos por favor intentelo de nuevo!!");
         }
-
-
     }
 
     /**
@@ -78,3 +77,5 @@ public class Example {
         }
     }
 }
+
+
